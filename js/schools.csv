@@ -1,0 +1,38 @@
+id,school,area,address,ministry,type,lat,long,type2
+1,UM Baltimore County,Baltimore/Western MD,"1000 Hilltop Cir, Baltimore, MD 21250",yes,Athletes Bible Study,39.2518351,-76.7057144,ABS
+2,McDaniel College,Baltimore/Western MD,"Westminster, MD 21157",yes,Athletes Bible Study,39.5753791,-76.9958149,ABS
+3,Johns Hopkins University,Baltimore/Western MD,"Baltimore, MD 21218",yes,Chapter,39.3322127,-76.6008334,CPT
+4,Loyola University,Baltimore/Western MD,"4501 N Charles St, Baltimore, MD 21210",no,,39.3464129,-76.6218889,other
+5,Goucher College,Baltimore/Western MD,"1021 Dulaney Valley Rd, Baltimore, MD 21204",Yes,Athletes Bible Study,39.4108672,-76.6004207,ABS
+6,MICA,Baltimore/Western MD,"1300 W Mt Royal Ave, Baltimore, MD 21217",no,,39.307555,-76.621634,other
+7,Morgan State,Baltimore/Western MD,"1700 East Cold Spring LaneåÊBaltimore, Maryland 21251",no,,39.3442455,-76.5824388,other
+8,Del Tech ,Delaware and Eastern Shore,"300 N Orange St, Wilmington, DE 19801",no,,39.7403395,-75.552956,other
+9,University of Delaware,Delaware and Eastern Shore,"Newark, DE 19716",yes,Chapter,39.6673566,-75.7502314,CPT
+10,Washington College,Delaware and Eastern Shore,"300 Washington Ave, Chestertown, MD 21620",no,,39.21674,-76.068008,other
+11,Georgetown University,Metro DC/Eastern MD,"3700 O St NW, Washington, DC 20057",no,,38.9076708,-77.0715752,other
+12,George Washington University,Metro DC/Eastern MD,"2121 I St NW, Washington, DC 20052",no,,38.900993,-77.047657,other
+13,University of Maryland,Metro DC/Eastern MD,"College Park, MD 20742",no,,38.9908487,-76.944141,other
+14,Bowie State,Metro DC/Eastern MD,"14000 Jericho Park Rd, Bowie, MD 20715",no,,39.0166586,-76.7613951,other
+15,St. Mary's College of MD,Metro DC/Eastern MD,"47645 College Dr, St Marys City, MD 20686",yes,Athletes Bible Study,38.1911453,-76.4287569,ABS
+16,Penn State- Main,Northern PA,"Old Main, State College, PA 16801",no,,40.796466,-77.8627439,other
+17,Bloomsburg University,Northern PA,"400 E 2nd St, Bloomsburg, PA 17815",no,,41.0081119,-76.4472749,other
+18,Lehigh University,Northern PA,"27 Memorial Dr W, Bethlehem, PA 18015",no,,40.6068348,-75.3801693,other
+19,Susquehanna University,Northern PA,"514 University Ave, Selinsgrove, PA 17870",no,,40.7997758,-76.8704066,other
+20,Bucknell University,Northern PA,"701 Moore Ave, Lewisburg, PA 17837",yes,Chapter,40.9565071,-76.8844019,CPT
+21,Penn Stat-Harrisburg,South Central PA,"777 W Harrisburg Pike, Middletown, PA 17057",no,,40.1972904,-76.7396178,other
+22,Franklin and Marshall College,South Central PA,"415 Harrisburg Ave, Lancaster, PA 17603",no,,40.049328,-76.315778,other
+23,Alvernia University,South Central PA,"400 St Bernardine St, Reading, PA 19607",yes,Athletes Bible Study,40.3153398,-75.9308401,ABS
+24,Dickinson College,South Central PA,"28 N College St, Carlisle, PA 17013",no,,40.2030697,-77.1968494,other
+25,Millersville University,South Central PA,"1 S George St, Millersville, PA 17551",no,,39.99705,-76.3543343,other
+26,York College,South Central PA,"443 Country Club Rd, York, PA 17403",no,,39.9453909,-76.7292807,other
+27,Elizabethtown College,South Central PA,"1 Alpha Dr, Elizabethtown, PA 17022",no,,40.1489764,-76.5937428,other
+28,Villanova University ,Suburban Philadelphia,"800 Lancaster Ave, Villanova, PA 19085",no,,40.0379514,-75.3426159,other
+29,Ursinus College,Suburban Philadelphia,"601 E Main St, Collegeville, PA 19426",no,,40.1939175,-75.4571055,other
+30,Bryn Mawr College,Suburban Philadelphia,"101 N Merion Ave, Bryn Mawr, PA 19010",no,,40.0266437,-75.3144462,other
+31,Widener University,Suburban Philadelphia,"1 University Pl, Chester, PA 19013",yes,Athletes Bible Study,39.8615629,-75.3576445,ABS
+32,Haverford College,Suburban Philadelphia,"370 Lancaster Ave, Haverford, PA 19041",yes,Athletes Bible Study,40.0117189,-75.299347,ABS
+33,Swarthmore College,Suburban Philadelphia,"500 College Ave, Swarthmore, PA 19081",yes,Athletes Bible Study,39.9069574,-75.351473,ABS
+34,Arcadia University,Suburban Philadelphia,"450 S Easton Rd, Glenside, PA 19038",no,,40.0915752,-75.1647196,other
+35,Temple University,Suburban Philadelphia,"1801 N Broad St, Philadelphia, PA 19122",yes,Chapter,39.9809442,-75.1578372,CPT
+36,University of Pennsylvania,Suburban Philadelphia,"Philadelphia, PA 19104",no,,39.9583587,-75.1953934,other
+37,LaSalle University,Suburban Philadelphia,"1825 Lindley Ave, Philadelphia, PA 19141",yes,planting a bible study,40.0315095,-75.1532748,ABS
